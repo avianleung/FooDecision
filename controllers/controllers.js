@@ -9,7 +9,6 @@ exports.getRestaurants = (req, res) => {
   const addressNames = [];
   const addressLatLong = [];
   const photoList = [];
-  const city = "Unionville";
 
   var ctr = 0;
   var ctr2 = 0;
