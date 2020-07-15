@@ -1,5 +1,4 @@
 import http from "../http-common";
-const keyString = '&key=AIzaSyB1PdkAbFTaObHSPG2spOz1UJA4FxHuMOQ';
 
 class DataService {
 

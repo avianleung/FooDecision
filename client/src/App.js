@@ -19,8 +19,6 @@ function App() {
   const success = (pos) => {
     setLat(pos.coords.latitude);
     setLng(pos.coords.longitude);
-    console.log(`Latitude : ${pos.coords.latitude}`);
-    console.log(`Longitude: ${pos.coords.longitude}`);
     setSwiper(true)
   };
 
