@@ -1,3 +1,3 @@
-# MERN_Boilerplate
+# Restaurant Swiper
 
-Boilerplate code for a MySQL, Express, React, and Node Stack
+Tinder for restaurants
