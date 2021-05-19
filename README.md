@@ -1,4 +1,4 @@
-# Restaurant Swiper
+# FooDecision
 
 Essentially Tinder for restaurants
 
